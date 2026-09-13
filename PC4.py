@@ -1,3 +1,4 @@
+# Función para calcular el promedio de una lista de números
 def Calcular_promedio(numeros: list[int]) -> float:
     suma = 0
     for numero in numeros:
